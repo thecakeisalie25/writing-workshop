@@ -3,7 +3,7 @@ the stem which bounces up and down pushed up by
 the spring which keeps the stem away from 
 the actuator made of copper that connects the stem to
 the wires which connect the sharp pins in the form of
-a matrix of wires being polled every now and again by
+a matrix of wires being resistance-checked every now and again by
 the controller which translates outputs from the matrix into
 keycodes which are numbers representing letters get translated to
 binary ones and zeroes the pulses of electricity switching on and off across 
