@@ -68,3 +68,6 @@ A meek "no" can barely be heard.
 "GOD DAMN IT, I CAN'T BELIEVE THIS SHIT!" He bellows, walking out of the door.
 "GOD!" can be heard with the slamming of the front door.
 And he left. He just walked out. 
+After that, the last I'd heard of him was the screaming of curses and the breaking of plant pots.
+
+It's not unnatural for me to go a day without seeing him, as our sleep schedules are pretty much opposite each other, but usually he tries to make time to see me at least once per day. But it felt like he was avoiding me for a while after that. After he left for a while, I didn't see him for about 3, maybe 4 days. 
