@@ -1,6 +1,6 @@
 # Blue, Purple, and Pink: The Pain of Coming Out.
 
-A couple warnings: this memoir contains discussion about sexuality, and strong language (thanks, dad!). If this disturbs you, leave, and come back when you're gained the courage to . 
+A couple warnings: this memoir contains discussion about sexuality, and strong language (thanks, dad!). If this disturbs you, leave, and come back when you're gained the courage to. 
 
 You've been warned.
 
@@ -74,7 +74,7 @@ A meek "no" can barely be heard.
 and he left. He just walked out.   
 After that, the last I'd heard of him was the screaming of curses and the breaking of plant pots.  
 
-It's not unnatural for me to go a day without seeing him, as our sleep schedules are pretty much opposite each other, but usually he tries to make time to see me at least once per day. But it felt like he was avoiding me for a while after that. after he left for a while, I didn't see him for about 3, maybe 4 days. He was just gone. Well, he wasn't gone. He was in the house, I know that for sure. But I never saw him. all I heard from him was though mom. and what little of him I heard was awful. He said that his peers wouldn't respect him anymore, and he said that his family would shame him. He said that he could never be happy in life knowing that I was like this. He said that he was just going to end it, he was going to commit suicide. 
+It's not unnatural for me to go a day without seeing him, as our sleep schedules are pretty much opposite each other, but usually he tries to make time to see me at least once per day. But it felt like he was avoiding me for a while after that. after he left for a while, I didn't see him for about 3, maybe 4 days. He was just gone. Well, he wasn't gone. He was in the house, I know that for sure. But I never saw him. all I heard from him was through mom. and what little of him I heard was awful. He said that his peers wouldn't respect him anymore, and he said that his family would shame him. He said that he could never be happy in life knowing that I was like this. He said that he was just going to end it, he was going to commit suicide. 
 
 All this from a single shirt. 
 
