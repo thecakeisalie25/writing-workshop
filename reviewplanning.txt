@@ -1,0 +1,24 @@
+Genre -
+Premiere, airtime, running time -
+Network or movie company - 
+Official rating (PG13, R, etc.) -
+Producer -
+Other projects done by producer -
+Main characters -
+Strengths/weaknesses of actor's style -
+Suitability for audiences (ages, etc.) -
+Based on -
+Filming location -
+Fictional setting -
+Quality of screenplay/script -
+Evaluation of - {
+    Plausibility -
+    Pace -
+    Special effects-
+    Costumes -
+    etc. -
+}
+Awards/Nominations -
+Quotes revealing dialogue -
+Professional critiques -
+Visual representation of item (WOP for intro) -
