@@ -1,24 +1,24 @@
-Genre -
-Premiere, airtime, running time -
-Network or movie company - 
-Official rating (PG13, R, etc.) -
-Producer -
-Other projects done by producer -
-Main characters -
-Strengths/weaknesses of actor's style -
-Suitability for audiences (ages, etc.) -
-Based on -
-Filming location -
-Fictional setting -
-Quality of screenplay/script -
+Genre - Ortholinear
+Premiere, airtime, running time - Assembled in 6 hours.
+Network or movie company - Cartel
+Official rating (PG13, R, etc.) - 3 (layers necessary for typing)
+Producer - me
+Other projects done by producer - none
+Main characters - AutoShift, Kalih MX Pro Linear Burgundy,  
+Strengths/weaknesses of actor's style - Small layout gives portability, yet confusion. Many keys appear missing.
+Suitability for audiences (ages, etc.) - Meant for serious typists who know their way around a keyboard.
+Based on - Planck
+Filming location - My shop
+Fictional setting - QMK
+Quality of screenplay/script - Programming is tight, and fits many features into a small keyboard.
 Evaluation of - {
-    Plausibility -
-    Pace -
-    Special effects-
-    Costumes -
-    etc. -
+    Usability - 6/10: Ortholinear layout is hard to get used to.
+    Size - 9/10: pretty dang small, but theoretically...
+    Programming - 9/10: could have added more features.
+    Build - 7/10: diodes are sometimes a bit wonky but not in a way that impacts functionality
+    etc. - 
 }
-Awards/Nominations -
-Quotes revealing dialogue -
-Professional critiques -
-Visual representation of item (WOP for intro) -
+Awards/Nominations - n/a
+Quotes revealing dialogue - n/a
+Professional critiques - n/a
+Visual representation of item (WOP for intro) - the keyboard itself.
