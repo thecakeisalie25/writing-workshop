@@ -17,3 +17,7 @@ A memoir about the troubles of coming out. It's complete, and you can view it [h
 ### Review
 
 A review of my custom Cartel Contra keyboard. It's incomplete, but you can view it [here.](https://thecakeisalie25.github.io/writing-workshop/review)
+
+### Letter to the editor
+
+A letter explaining what conversion therapy is, and why it's so terrible. It's incomplete, but you can view it [here.](https://github.com/thecakeisalie25/writing-workshop/blob/master/editorletter.txt)
