@@ -16,8 +16,8 @@ A memoir about the troubles of coming out. It's complete, and you can view it [h
 
 ### Review
 
-A review of my custom Cartel Contra keyboard. It's incomplete, but you can view it [here.](https://thecakeisalie25.github.io/writing-workshop/review)
+A review of my custom Cartel Contra keyboard. It's incomplete, but you can view it [here.](https://thecakeisalie25.github.io/writing-workshop/review) If you want to see it as it was before my peer conference, you can do so [here.](https://github.com/thecakeisalie25/writing-workshop/blob/55738f6ce4e531e7dc2c52039957f75a6c34658c/memoir.md) (1st draft) If you want to see it as it was before my teacher conference, you can do so [here.](https://github.com/thecakeisalie25/writing-workshop/blob/4f63ae9d5e65e82733a0898abf3a76893d4a76fe/memoir.md) (Revised version)
 
 ### Letter to the editor
 
-A letter explaining what conversion therapy is, and why it's so terrible. It's incomplete, but you can view it [here.](https://github.com/thecakeisalie25/writing-workshop/blob/master/editorletter.txt)
+A letter explaining what conversion therapy is, and why it's so terrible. It's incomplete, but you can view it [here.](https://github.com/thecakeisalie25/writing-workshop/blob/master/editorletter.txt) If you want to see it as it was before my peer conference, you can do so [here.](https://github.com/thecakeisalie25/writing-workshop/blob/55738f6ce4e531e7dc2c52039957f75a6c34658c/memoir.md) (1st draft) If you want to see it as it was before my teacher conference, you can do so [here.](https://github.com/thecakeisalie25/writing-workshop/blob/4f63ae9d5e65e82733a0898abf3a76893d4a76fe/memoir.md) (Revised version)
