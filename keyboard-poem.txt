@@ -14,7 +14,7 @@ the screen which shows you letters in the order you type to form
 words which have a meaning all their own but are most effective in
 sentences
 or
-code
+paragraphs
 or
 phrases
 or
